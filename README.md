@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![GitHub downloads](https://img.shields.io/github/downloads/mynameismama6zaa/HackingW10/total?color=blue&style=for-the-badge)
+
 ⚠️ **Legal Disclaimer**: This tool is for **educational purposes and authorized penetration testing only**. Unauthorized use against systems you don't own is illegal. The developer assumes no liability for misuse.
 
 ## 🔍 Features
