@@ -1,5 +1,9 @@
 # Windows 10 Security Assessment Tool
 
+![Security](https://img.shields.io/badge/Purpose-Security_Testing-red) 
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 ⚠️ **Legal Disclaimer**: This tool is for **educational purposes and authorized penetration testing only**. Unauthorized use against systems you don't own is illegal. The developer assumes no liability for misuse.
 
 ## 🔍 Features
@@ -12,55 +16,42 @@
 - Gmail Reporting System
 
 ## 🛠️ Setup
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/mynameismama6zaa/HackingW10.git
-   cd HackingW10
-Install dependencies:
 
-bash
-pip install -r requirements.txt
-First Run Configuration:
+### 1. Clone the repository
+```bash
+- git clone https://github.com/mynameismama6zaa/HackingW10.git
+- cd HackingW10
 
-The script will prompt for:
 
-Your Gmail address
+### 2. Install dependencies
 
-App password (enable 2FA and generate app password)
+- pip install -r requirements.txt
 
-Recipient email
 
-🖥️ Usage
-Interactive Mode:
-bash
-python main.py
-Menu Options:
+### 3. First Run Configuration
+- The script will prompt for:
 
-Create EXE Version - Builds standalone executable
+- Your Gmail address
 
-Exit
+- App password (enable 2FA and generate app password)
 
-Silent Mode (for built EXE):
-bash
-main.exe --auto
-📂 Modules Breakdown
-Function	Description	Frequency
-_get_network_information	Collects system/network data	Once
-screen_shot	Takes random screenshots (1-10)	Every 1-14s
-capture_camera	Webcam snapshot	Once
-keylogger	Logs keystrokes	Continuous
-get_user_location	IP geolocation	Once
-📧 Email Reporting
-Uses SMTP over TLS (Gmail)
+- Recipient email
 
-Sends separate emails for each module
 
-Attachments include:
+## 4. Usage
 
-keylogs.txt
+- python main.py
 
-screenshot.png
 
-Camera captures
+## 5. Important Notes
 
-System info reports
+- For Educational Use Only
+
+- Always Get Proper Authorization
+
+- Leaves Forensic Artifacts
+
+- Test in Controlled Environments Only
+
+
+
