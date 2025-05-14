@@ -16,19 +16,6 @@
 - Gmail Reporting System
 
 
-# 1. Clone the repository
-git clone https://github.com/mynameismama6zaa/HackingW10.git
-
-# 2. Enter the project directory
-cd HackingW10
-
-# 3. Install Python requirements
-pip install -r requirements.txt
-
-# 4. Run the tool
-python main.py
-
-
 📌 Overview
 This toolkit is designed for authorized security professionals to assess Windows 10 vulnerabilities in controlled environments. It provides a suite of offensive security tools to evaluate system defenses, report findings, and demonstrate proof-of-concept exploits.
 
