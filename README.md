@@ -3,7 +3,7 @@
 ![Security](https://img.shields.io/badge/Purpose-Security_Testing-red) 
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
+![GitHub all releases](https://img.shields.io/github/downloads/mynameismama6zaa/HackingW10/total?style=flat-square)
 ![GitHub downloads](https://img.shields.io/github/downloads/mynameismama6zaa/HackingW10/total?color=blue&style=for-the-badge)
 
 ⚠️ **Legal Disclaimer**: This tool is for **educational purposes and authorized penetration testing only**. Unauthorized use against systems you don't own is illegal. The developer assumes no liability for misuse.
